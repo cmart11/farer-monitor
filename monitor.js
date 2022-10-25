@@ -1,3 +1,4 @@
+// this is bare minimum proof of concept
 function count() {
   const formatter = new Intl.NumberFormat("en-US", {
     style: "currency",
